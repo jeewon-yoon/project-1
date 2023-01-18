@@ -1,10 +1,3 @@
-% Copyright 2015 Xilin Shen and Emily Finn 
-
-% This code is released under the terms of the GNU GPL v2. This code
-% is not FDA approved for clinical use; it is provided
-% freely for research purposes. If using this in a publication
-% please reference this properly as: 
-
 % Finn ES, Shen X, Scheinost D, Rosenberg MD, Huang, Chun MM,
 % Papademetris X & Constable RT. (2015). Functional connectome
 % fingerprinting: Identifying individuals using patterns of brain
