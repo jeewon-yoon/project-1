@@ -1,3 +1,5 @@
+% Critical value for permutation testing
+
 for i = 1:1:116
     for j = 1:1:116
         tval=[]; tind=[];
