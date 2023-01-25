@@ -1,6 +1,6 @@
 clear all;
 
-% 작업디렉토리 내 .mat파일 리스트 구성하기
+% Creating .mat file in the designated directory
 filename = ['*.mat']; 
 current_path = [pwd '/'];
 filelist = dir([current_path filename]);
