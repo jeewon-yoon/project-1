@@ -1,4 +1,3 @@
-
 % test matrix(3D M*M*N matrix and observed score matrix) as an input
 test_mats = ARS_matrix_Z;
 observed_score = ARS_impulse_score;
